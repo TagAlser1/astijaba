@@ -564,35 +564,35 @@ header .lang:hover {
 }
 #services .serv-content .image1 {
   background-image:
-  linear-gradient(to top, rgb(255, 255, 255), transparent 40%), url('/CSS/prepar_plan.jpg');
+  linear-gradient(to top, rgb(255, 255, 255), transparent 40%), url('/prepar_plan.jpg');
   background-size: 100% 70%;
   background-position: top center;
   background-repeat: no-repeat;
 }
 #services .serv-content .image2 {
   background-image:
-  linear-gradient(to top, rgb(255, 255, 255), transparent 60%), url('/CSS/rport_enviro.jpg');
+  linear-gradient(to top, rgb(255, 255, 255), transparent 60%), url('/rport_enviro.jpg');
   background-size: 100% 70%;
   background-position: top center;
   background-repeat: no-repeat;
 }
 #services .serv-content .image3 {
   background-image:
-  linear-gradient(to top, rgb(255, 255, 255), transparent 40%), url('/CSS/consultations.jpg');
+  linear-gradient(to top, rgb(255, 255, 255), transparent 40%), url('/consultations.jpg');
   background-size: 100% 70%;
   background-position: top center;
   background-repeat: no-repeat;
 }
 #services .serv-content .image4 {
   background-image:
-  linear-gradient(to top, rgb(255, 255, 255), transparent 40%), url('/CSS/Rehabilitation.jpg');
+  linear-gradient(to top, rgb(255, 255, 255), transparent 40%), url('/Rehabilitation.jpg');
   background-size: 100% 70%;
   background-position: top center;
   background-repeat: no-repeat;
 }
 #services .serv-content .image5 {
   background-image:
-  linear-gradient(to top, rgb(255, 255, 255), transparent 40%), url('/CSS/audit.jpg');
+  linear-gradient(to top, rgb(255, 255, 255), transparent 40%), url('/audit.jpg');
   background-size: 100% 70%;
   background-position: top center;
   background-repeat: no-repeat;
