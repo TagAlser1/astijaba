@@ -546,16 +546,15 @@ header .lang:hover {
   grid-row-gap: 40px;
   text-align: center; 
 }
+
 @media (max-width: 767px) {
   #services .serv-content {
-   grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
   }
 }
 @media (max-width: 991px) {
   #services .serv-content {
     flex-direction: column-reverse;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-
   }
 }
  @media (max-width: 991px) {
@@ -565,35 +564,35 @@ header .lang:hover {
 }
 #services .serv-content .image1 {
   background-image:
-  linear-gradient(to top, rgb(255, 255, 255), transparent 40%), url('imgs/prepar_plan.jpg');
+  linear-gradient(to top, rgb(255, 255, 255), transparent 40%), url('prepar_plan.jpg');
   background-size: 100% 70%;
   background-position: top center;
   background-repeat: no-repeat;
 }
 #services .serv-content .image2 {
   background-image:
-  linear-gradient(to top, rgb(255, 255, 255), transparent 60%), url('imgs/rport_enviro.jpg');
+  linear-gradient(to top, rgb(255, 255, 255), transparent 60%), url('rport_enviro.jpg');
   background-size: 100% 70%;
   background-position: top center;
   background-repeat: no-repeat;
 }
 #services .serv-content .image3 {
   background-image:
-  linear-gradient(to top, rgb(255, 255, 255), transparent 40%), url('imgs/consultations.jpg');
+  linear-gradient(to top, rgb(255, 255, 255), transparent 40%), url('consultations.jpg');
   background-size: 100% 70%;
   background-position: top center;
   background-repeat: no-repeat;
 }
 #services .serv-content .image4 {
   background-image:
-  linear-gradient(to top, rgb(255, 255, 255), transparent 40%), url('imgs/Rehabilitation.jpg');
+  linear-gradient(to top, rgb(255, 255, 255), transparent 40%), url('Rehabilitation.jpg');
   background-size: 100% 70%;
   background-position: top center;
   background-repeat: no-repeat;
 }
 #services .serv-content .image5 {
   background-image:
-  linear-gradient(to top, rgb(255, 255, 255), transparent 40%), url('imgs/audit.jpg');
+  linear-gradient(to top, rgb(255, 255, 255), transparent 40%), url('audit.jpg');
   background-size: 100% 70%;
   background-position: top center;
   background-repeat: no-repeat;
