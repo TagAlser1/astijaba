@@ -564,7 +564,8 @@ header .lang:hover {
 }
 #services .serv-content .image1 {
   background-image:
-  linear-gradient(to top, rgb(255, 255, 255), transparent 40%), url('/CSS/prepar_plan.jpg');
+  url('/CSS/prepar_plan.jpg');
+/*   linear-gradient(to top, rgb(255, 255, 255), transparent 40%), url('/CSS/prepar_plan.jpg'); */
   background-size: 100% 70%;
   background-position: top center;
   background-repeat: no-repeat;
