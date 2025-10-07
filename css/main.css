@@ -1029,6 +1029,11 @@ header .lang:hover {
   justify-content: center;
   align-content: center;
 }
+@media (max-width: 768px) {
+  #mostadam .mostadam-content .mostadam-img {
+    order: -1; 
+  }
+}
 #mostadam .mostadam-content .mostadam-img img{
   width: 100%;
 }
