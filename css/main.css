@@ -1033,11 +1033,6 @@ header .lang:hover {
 #mostadam .mostadam-content .mostadam-img img{
   width: 100%;
 }
-@media (max-width: 768px) {
-  #mostadam .mostadam-content .mostadam-img img {
-    order: -1; 
-  }
-}
 /* end section mostadam */
 
 /* start section ISO type */
