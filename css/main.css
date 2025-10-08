@@ -999,7 +999,14 @@ header .lang:hover {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
 }
-#mostadam .mostadam-content{
+#mostadam .container .most-heading{
+  margin-bottom: 20px;
+}
+#mostadam .container .subhead{
+  text-align: center;
+  margin-bottom: 35px;
+}
+#mostadam .container .mostadam-content{
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(370px, 1fr));
   gap: 20px;
